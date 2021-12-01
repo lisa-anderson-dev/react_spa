@@ -1,4 +1,5 @@
 import React from 'react';
+import './../componentsCSS/Questions.css';
 
 function Questions() {
     return (

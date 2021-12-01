@@ -7,7 +7,7 @@ import Questions from './components/Questions';
 function App() {
   return (
     <div className="App">
-      <Header />
+      <Header title="Testing" />
       <Navbar />
       <Questions />
     </div>
